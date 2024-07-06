@@ -18,9 +18,9 @@ Model
 
 The model uses the following machine learning algorithms:
 
-SGD Classifier
-Random Forest Classifier
-Support Vector Machine (SVM)
+1)SGD Classifier
+2)Random Forest Classifier
+3)Support Vector Machine (SVM)
 The model is trained on the dataset and evaluated using various metrics such as accuracy, classification report, and confusion matrix.
 
 Usage
